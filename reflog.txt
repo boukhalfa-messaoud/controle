@@ -1,0 +1,20 @@
+ef89104 (HEAD -> main) HEAD@{0}: commit: ajout de log.txy
+316d8ff (origin/main, origin/HEAD) HEAD@{1}: checkout: moving from tobedeleted to main
+dcee998 HEAD@{2}: commit: ajout azerty
+316d8ff (origin/main, origin/HEAD) HEAD@{3}: checkout: moving from main to tobedeleted
+316d8ff (origin/main, origin/HEAD) HEAD@{4}: reset: moving to HEAD
+316d8ff (origin/main, origin/HEAD) HEAD@{5}: commit (cherry-pick): correction of fork
+0dac256 HEAD@{6}: checkout: moving from hobby to main
+fb98145 (hobby) HEAD@{7}: commit: README dans la branche hobby
+2fb5576 HEAD@{8}: checkout: moving from main to hobby
+0dac256 HEAD@{9}: checkout: moving from hobby to main
+2fb5576 HEAD@{10}: commit (cherry-pick): README dans la branche hobby
+1a6d519 HEAD@{11}: commit: README dans la branche hobby
+f78dba0 HEAD@{12}: commit: Modification hobby
+a10d4e6 HEAD@{13}: checkout: moving from main to hobby
+0dac256 HEAD@{14}: commit (merge): fixing fork
+a10d4e6 HEAD@{15}: checkout: moving from météo to main
+4e3356d (météo) HEAD@{16}: commit: README dans la branche météo”
+7a6fd1e HEAD@{17}: commit: Modification météo
+b9e80b3 HEAD@{18}: commit: correction de la branche comme main
+559cba1 HEAD@{19}: checkout: moving from main to météo
