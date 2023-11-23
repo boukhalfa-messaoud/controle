@@ -1,0 +1,22 @@
+commit 316d8ff46c2a845531e57ea2e8deec539387358f (HEAD -> main, origin/main, origin/HEAD)
+Author: boukhalfa-messaoud <messaoud.boukhalfa.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:22:15 2023 +0100
+
+    correction of fork
+
+commit 0dac256b67775218a671ed7c69213b8dd9111b0a
+Merge: a10d4e6 4e3356d
+Author: boukhalfa-messaoud <messaoud.boukhalfa.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:45:10 2023 +0100
+
+    fixing fork
+
+commit 4e3356dc970c517edb681fb99412bc27efb96dfa (météo)
+Author: boukhalfa-messaoud <messaoud.boukhalfa.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:32:17 2023 +0100
+
+    README dans la branche météo”
+
+commit 7a6fd1e589e2b696f7edba781ce6a2d8e45e65ef
+Author: boukhalfa-messaoud <messaoud.boukhalfa.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:29:57 2023 +0100
